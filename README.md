@@ -1,4 +1,4 @@
-# 🏎️ F1 Historical Archive & Analytics Dashboard (1950–Present)
+# 🏎️ F1 ErgastEra Archive (1950–Present)
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.64.0-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.14-3776AB?logo=python&logoColor=white)](https://www.python.org/)
