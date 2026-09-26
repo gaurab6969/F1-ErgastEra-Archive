@@ -30,7 +30,7 @@ st.set_page_config(
 # TITLE & HEADER
 # =========================================================
 
-st.title("🏎️ F1 Historical Archive (1950–Present)")
+st.title("🏎️ F1 ErgastEra Archive (1950–Present)")
 
 st.markdown(
     """
