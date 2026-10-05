@@ -6,7 +6,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-7.1.0-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
 [![Data Source](https://img.shields.io/badge/Data%20Source-Jolpica--F1%20%2F%20Ergast-blue)](https://github.com/jolpica/jolpica-f1)
 
-An interactive, responsive Formula 1 web dashboard built with **Streamlit**, **FastF1**, and **Plotly**. Explore official race results, grid position changes, and Driver & Constructor World Championship standings across more than seven decades of Formula 1 history (**1950 - present**).
+An interactive, responsive Formula 1 web dashboard built with **Streamlit** UI, **FastF1**, and **Plotly**. Explore official race results, grid position changes, and Driver & Constructor World Championship standings across more than seven decades of Formula 1 history (**1950 - present**).
 
 ---
 
